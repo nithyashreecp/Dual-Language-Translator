@@ -41,8 +41,4 @@ Or run the Gradio app cell inside the notebook to launch the translator.
 - Notebook includes installation cells
 - Add dataset instructions before submission
 
-## Internship Extension
-- Added GUI using Gradio
-- Added preprocessing pipeline
-- Organized project for reproducibility
-- Checklist created for missing items (BLEU evaluation, plots, dataset clarity, model saving)
+
