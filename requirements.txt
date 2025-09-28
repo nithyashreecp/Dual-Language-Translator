@@ -1,0 +1,9 @@
+transformers
+torch
+gradio
+pandas
+numpy
+matplotlib
+sacrebleu
+scikit-learn
+tqdm
